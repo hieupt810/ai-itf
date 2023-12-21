@@ -1,0 +1,8 @@
+print("Gao nuoc:", [0, 0, 9], "- Be:", 0)
+print("Gao nuoc:", [7, 0, 2], "- Be:", 0)
+print("Gao nuoc:", [0, 0, 0], "- Be:", 2)
+print("Gao nuoc:", [0, 0, 9], "- Be:", 2)
+print("Gao nuoc:", [7, 0, 2], "- Be:", 2)
+print("Gao nuoc:", [0, 0, 0], "- Be:", 4)
+print("Gao nuoc:", [0, 0, 9], "- Be:", 4)
+print("Gao nuoc:", [0, 0, 0], "- Be:", 13)
